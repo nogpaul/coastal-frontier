@@ -1,0 +1,34 @@
+﻿# Default: treat as text, normalize to LF on commit, keep LF on checkout
+* text=auto eol=lf
+
+# Explicit text files
+*.py       text eol=lf
+*.md       text eol=lf
+*.txt      text eol=lf
+*.sql      text eol=lf
+*.ipynb    text eol=lf
+*.yaml     text eol=lf
+*.yml      text eol=lf
+*.toml     text eol=lf
+*.json     text eol=lf
+*.cfg      text eol=lf
+*.ini      text eol=lf
+.gitignore text eol=lf
+.env.example text eol=lf
+
+# Binary files — never touched by git's text-conversion machinery
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.pdf      binary
+*.gpkg     binary
+*.parquet  binary
+*.sqlite   binary
+*.db       binary
+*.zip      binary
+*.7z       binary
+*.shp      binary
+*.dbf      binary
+*.shx      binary
+*.tif      binary
+*.tiff     binary
