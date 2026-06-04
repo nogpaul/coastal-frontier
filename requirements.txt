@@ -3,3 +3,10 @@
 
 # Environment & secrets
 python-dotenv==1.0.1
+
+# HTTP client (for ACLED OAuth — kept for when API access is granted)
+requests==2.32.3
+
+# Tabular data
+pandas==2.2.3
+pyarrow==18.1.0
