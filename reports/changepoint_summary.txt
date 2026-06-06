@@ -1,0 +1,23 @@
+=== Change-Point Analysis Summary ===
+
+Method: Binary Segmentation (BinSeg), Q=3 regional / Q=2 per country
+Library: R `changepoint` package
+
+Interpretation: each change-point marks a quarter where the mean of the
+event-count series shifted significantly. The change-point quarter is the
+LAST quarter of the prior regime; the following quarter begins the new one.
+
+=== Regional aggregate ===
+Series length: 21 quarters (2020Q1 to 2026Q2)
+Number of structural breaks: 3
+Break quarters: 2021Q4, 2022Q4, 2024Q2
+Segment means: 100.1 -> 148 -> 220.2 -> 127.3
+
+=== Per-country ===
+Benin          : breaks at 2022Q4, 2023Q4 | segment means: 2.2 -> 4.5 -> 6.8
+Burkina Faso   : breaks at 2022Q4, 2023Q4 | segment means: 40.9 -> 124 -> 55.8
+Ghana          : no structural breaks | mean: 2.1
+Ivory Coast    : insufficient data
+Mali           : breaks at 2021Q4, 2024Q2 | segment means: 47.1 -> 80.3 -> 68.3
+Niger          : breaks at 2023Q2, 2024Q2 | segment means: 13.6 -> 23.5 -> 14.7
+Togo           : breaks at 2022Q4, 2023Q1 | segment means: 2.3 -> 13 -> 2.9
