@@ -1,0 +1,98 @@
+country,region,quarter,n_events,fatalities
+Benin,Littoral,2020Q1,1,1
+Benin,Littoral,2021Q1,1,3
+Benin,Littoral,2021Q4,5,8
+Benin,Littoral,2022Q1,2,9
+Benin,Littoral,2022Q2,2,5
+Benin,Littoral,2022Q4,2,9
+Benin,Littoral,2023Q1,5,10
+Benin,Littoral,2023Q2,7,20
+Benin,Littoral,2023Q3,4,11
+Benin,Littoral,2023Q4,2,3
+Benin,Littoral,2024Q1,8,21
+Benin,Littoral,2024Q2,9,26
+Benin,Littoral,2024Q3,4,18
+Benin,Littoral,2024Q4,6,15
+Burkina Faso,Sahel Core,2020Q1,55,475
+Burkina Faso,Sahel Core,2020Q2,47,399
+Burkina Faso,Sahel Core,2020Q3,16,64
+Burkina Faso,Sahel Core,2020Q4,24,134
+Burkina Faso,Sahel Core,2021Q1,40,152
+Burkina Faso,Sahel Core,2021Q2,43,416
+Burkina Faso,Sahel Core,2021Q3,39,346
+Burkina Faso,Sahel Core,2021Q4,36,368
+Burkina Faso,Sahel Core,2022Q1,45,443
+Burkina Faso,Sahel Core,2022Q2,46,694
+Burkina Faso,Sahel Core,2022Q3,50,643
+Burkina Faso,Sahel Core,2022Q4,50,591
+Burkina Faso,Sahel Core,2023Q1,119,1058
+Burkina Faso,Sahel Core,2023Q2,167,1720
+Burkina Faso,Sahel Core,2023Q3,104,1129
+Burkina Faso,Sahel Core,2023Q4,106,984
+Burkina Faso,Sahel Core,2024Q1,68,1020
+Burkina Faso,Sahel Core,2024Q2,95,1484
+Burkina Faso,Sahel Core,2024Q3,40,978
+Burkina Faso,Sahel Core,2024Q4,49,307
+Burkina Faso,Sahel Core,2026Q2,27,194
+Ghana,Littoral,2022Q1,1,4
+Ghana,Littoral,2022Q3,1,0
+Ghana,Littoral,2022Q4,3,12
+Ghana,Littoral,2023Q1,5,12
+Ghana,Littoral,2023Q2,1,1
+Ghana,Littoral,2023Q3,2,1
+Ghana,Littoral,2023Q4,1,1
+Ghana,Littoral,2024Q1,3,7
+Ivory Coast,Littoral,2020Q4,1,3
+Mali,Sahel Core,2020Q1,62,455
+Mali,Sahel Core,2020Q2,48,344
+Mali,Sahel Core,2020Q3,34,162
+Mali,Sahel Core,2020Q4,44,298
+Mali,Sahel Core,2021Q1,63,326
+Mali,Sahel Core,2021Q2,48,284
+Mali,Sahel Core,2021Q3,40,214
+Mali,Sahel Core,2021Q4,38,337
+Mali,Sahel Core,2022Q1,101,1430
+Mali,Sahel Core,2022Q2,74,581
+Mali,Sahel Core,2022Q3,68,474
+Mali,Sahel Core,2022Q4,92,621
+Mali,Sahel Core,2023Q1,68,343
+Mali,Sahel Core,2023Q2,55,262
+Mali,Sahel Core,2023Q3,72,676
+Mali,Sahel Core,2023Q4,83,501
+Mali,Sahel Core,2024Q1,92,438
+Mali,Sahel Core,2024Q2,98,370
+Mali,Sahel Core,2024Q3,68,477
+Mali,Sahel Core,2024Q4,110,337
+Mali,Sahel Core,2026Q2,27,66
+Niger,Sahel Core,2020Q1,20,307
+Niger,Sahel Core,2020Q2,14,172
+Niger,Sahel Core,2020Q3,6,19
+Niger,Sahel Core,2020Q4,11,65
+Niger,Sahel Core,2021Q1,25,274
+Niger,Sahel Core,2021Q2,21,121
+Niger,Sahel Core,2021Q3,9,224
+Niger,Sahel Core,2021Q4,10,217
+Niger,Sahel Core,2022Q1,7,80
+Niger,Sahel Core,2022Q2,14,80
+Niger,Sahel Core,2022Q3,15,108
+Niger,Sahel Core,2022Q4,12,62
+Niger,Sahel Core,2023Q1,15,134
+Niger,Sahel Core,2023Q2,12,32
+Niger,Sahel Core,2023Q3,26,111
+Niger,Sahel Core,2023Q4,26,161
+Niger,Sahel Core,2024Q1,19,270
+Niger,Sahel Core,2024Q2,23,353
+Niger,Sahel Core,2024Q3,23,312
+Niger,Sahel Core,2024Q4,16,277
+Niger,Sahel Core,2026Q2,5,11
+Togo,Littoral,2022Q2,1,23
+Togo,Littoral,2022Q3,5,35
+Togo,Littoral,2022Q4,1,3
+Togo,Littoral,2023Q1,13,49
+Togo,Littoral,2023Q2,2,7
+Togo,Littoral,2023Q3,1,12
+Togo,Littoral,2023Q4,3,6
+Togo,Littoral,2024Q1,3,10
+Togo,Littoral,2024Q2,4,12
+Togo,Littoral,2024Q3,2,15
+Togo,Littoral,2024Q4,5,30
