@@ -1,0 +1,140 @@
+/* Coastal Frontier brief — print stylesheet */
+
+@page {
+    margin: 0.75in 0.85in;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 10.5pt;
+    line-height: 1.45;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24pt;
+    font-weight: 800;
+    color: #0a3d62;
+    margin: 0 0 0.1em 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: 700;
+    color: #0a3d62;
+    margin: 1.3em 0 0.4em 0;
+    border-bottom: 1.5px solid #0a3d62;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0.9em 0 0.2em 0;
+    letter-spacing: 0.3px;
+}
+
+/* Subtitle (the h2 right after h1, before the first hr) */
+h1 + h2 {
+    font-family: Georgia, serif;
+    font-size: 13pt;
+    font-weight: 400;
+    color: #444;
+    text-transform: none;
+    letter-spacing: 0;
+    border-bottom: none;
+    margin: 0 0 0.4em 0;
+    padding-bottom: 0;
+    font-style: italic;
+}
+
+/* Date/source line under the title */
+h1 + h2 + p em {
+    font-size: 9.5pt;
+    color: #666;
+}
+
+p {
+    margin: 0 0 0.55em 0;
+    text-align: justify;
+    hyphens: auto;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #c0c0c0;
+    margin: 1em 0;
+}
+
+strong {
+    color: #0a3d62;
+    font-weight: 700;
+}
+
+em {
+    color: #333;
+}
+
+ul, ol {
+    margin: 0.3em 0 0.6em 0;
+    padding-left: 1.4em;
+}
+
+li {
+    margin-bottom: 0.25em;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0.5em 0 0.9em 0;
+    font-size: 10pt;
+    page-break-inside: avoid;
+}
+
+thead {
+    background-color: #eef2f7;
+}
+
+th {
+    border-top: 1.5px solid #0a3d62;
+    border-bottom: 1.5px solid #0a3d62;
+    padding: 6px 9px;
+    text-align: left;
+    font-weight: 700;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #0a3d62;
+    font-size: 9.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+td {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 5px 9px;
+    vertical-align: top;
+}
+
+a {
+    color: #0a3d62;
+    text-decoration: none;
+}
+
+/* Make sure h2 followed by content doesn't collapse poorly */
+h2 + p {
+    margin-top: 0.2em;
+}
+
+h3 + p {
+    margin-top: 0.1em;
+}
